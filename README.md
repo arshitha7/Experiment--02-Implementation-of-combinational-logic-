@@ -63,7 +63,7 @@ endmodule
 ![experiment 2 rtl](https://github.com/arshitha7/Experiment--02-Implementation-of-combinational-logic-/assets/144979143/062324ae-cdac-42d2-a298-e6edc396d8ab)
 
 ## Truth table
-![Screenshot 2023-11-20 105121](https://github.com/arshitha7/Experiment--02-Implementation-of-combinational-logic-/assets/144979143/7143bf75-d5e1-48e1-aa45-fa30106d866f)
+![image](https://github.com/arshitha7/Experiment--02-Implementation-of-combinational-logic-/assets/144979143/94a59b4d-9150-4e1c-a487-8f215b7320ec)
 
 ## Timing Diagram
 ![Screenshot 2023-11-20 105156](https://github.com/arshitha7/Experiment--02-Implementation-of-combinational-logic-/assets/144979143/423b9dd1-4ec8-4baf-b155-c81960259db6)
