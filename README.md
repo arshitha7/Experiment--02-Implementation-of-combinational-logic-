@@ -1,3 +1,7 @@
+```
+Developed by:Arshitha MS 
+RegisterNumber: 212223240015
+```
 # Experiment--02-Implementation-of-combinational-logic
 
 ## AIM:
@@ -56,8 +60,7 @@ assign x5=(B)&(~C)&(D);
 assign F1=x1|x2|x3|x4|x5;
 endmodule
 ```
-### Developed by: Arshitha MS
-### RegisterNumber: 23014017 
+
 
 ## RTL realization
 ![experiment 2 rtl](https://github.com/arshitha7/Experiment--02-Implementation-of-combinational-logic-/assets/144979143/062324ae-cdac-42d2-a298-e6edc396d8ab)
